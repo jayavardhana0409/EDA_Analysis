@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+python-magic
+PyPDF2
+scikit-learn
